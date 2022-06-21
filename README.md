@@ -1,1 +1,3 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+# Antarctic-Buoys
+
+App for a environmental monitoring system in Antarctica. Web app: www.operantar.live
